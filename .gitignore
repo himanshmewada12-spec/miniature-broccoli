@@ -40,5 +40,8 @@
 # debug information files
 *.dwo
 
-# build directory
+# Project specific
 build
+.cache
+compile_commands.json
+.clangd
